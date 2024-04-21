@@ -1,4 +1,4 @@
-# week8-adpro-subscriber
+# week8-adpro-publisher
 
 7.Try to answer the following questions, and write the answer in the and new file readme.md in
 you repository.  
