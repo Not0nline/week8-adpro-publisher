@@ -15,3 +15,7 @@ program, what does it mean?
 The URL amqp://guest:guest@localhost:5672 is the same in both the publisher and subscriber programs. This is because both are sending requests to the same RabbitMQ server. The difference lies in the result of these requests. The publisher sends messages to the queue, while the subscriber creates a listener that retrieves data from the message queue.
 
 ![img.png](img.png)
+
+![img_1.png](img_1.png)
+
+![img_2.png](img_2.png)
