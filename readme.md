@@ -36,6 +36,8 @@ This graph shows that there is an increase in messages over a certain time inter
 
 ![img_5.png](img_5.png)
 
+The image above shows that at one point there were 25 messages in the queue. This happened because the subscriber needed more time to manage each event in the message queue, resulting in a pile-up of messages because the publisher published messages faster than the subscriber could process them.
+
 ![img_4.png](img_4.png)
 
 
