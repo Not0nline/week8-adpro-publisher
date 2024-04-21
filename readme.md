@@ -30,3 +30,13 @@ The image above shows that after the publisher is run, the publisher will send t
 
 ![img_3.png](img_3.png)
 
+This graph shows that there is an increase in messages over a certain time interval. This is related to the cargo run that is executed in the publisher project. It can be observed that each time the publisher is run, there will be an increase in the message rate on RabbitMQ, which serves as its message queue.
+
+- Running at least 3 subscriber
+
+![img_5.png](img_5.png)
+
+![img_4.png](img_4.png)
+
+
+
